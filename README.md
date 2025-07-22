@@ -29,7 +29,7 @@ Passionate about building things, exploring new technologies, and sharing knowle
 ### 💁‍♂️ Experience
 
 
-- **Infosys:** Worked at Infosys as a Digital Specilist Engineer on Big Data with Technologies like - Python, SQL, PySpark, SparkSQL, ADB, ADF as a Data Engineer.  
+- **Infosys:** Worked at Infosys as a Digital Specialist Engineer on Big Data with Technologies like - Python, SQL, PySpark, SparkSQL, ADB, ADF as a Data Engineer.  
 
 
 ### 🚀 Featured Projects
@@ -43,13 +43,13 @@ Passionate about building things, exploring new technologies, and sharing knowle
 ### 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/pawansinghfromindia/)&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Website-000?logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/Twitter-black?logo=X&logoColor=white)](https://x.com/yourusername)&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-black?logo=youtube&logoColor=red)](https://youtube.com/in/yourusername)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-000?logo=Google-Chrome&logoColor=white)](https://github.com/pawansinghfromindia)&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/Twitter-black?logo=X&logoColor=white)](https://x.com/pawanfromindia)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-black?logo=youtube&logoColor=red)](www.youtube.com/@AIRSingh01)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/yourusername)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-TealGreenDark?logo=whatsapp&logoColor=white)](https://whatsapp.com/+91987654321)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-TealGreenDark?logo=whatsapp&logoColor=white)](https://whatsapp.com/+919876543210)
 
 
 ---
@@ -66,12 +66,12 @@ Passionate about building things, exploring new technologies, and sharing knowle
 
 ### ✨ Fun Facts
 
-- 😄 **Hobbies** : | Running | Teaching kids | Photo/Video Editing | Writing |
-- 💖 **Loves** : | Family, especially ( Maa-Papa ) |
+- 😄 **Hobbies** : | Running | Teaching kids | Editing - Media Files | Writing | Coding |
+- 💖 **Loves** : | Family, especially ( Maa-Papa ) |  |
 - 🌃 **Dreams** : | Buy/Build Home for Parents | 
-- 🍃**Spiritual Gems** : | Premanand Ji Maharaj | Neem Karoli Baba | Acharya Osho |
-- 🤾‍♂️**Sports Persons** : | Cricket - MSD | Football - Ronaldo |
-- 📃**Wishlist** : | Bikes/Cars | Mac-Prods | e-Gadgets|
+- 🍃**Spiritual Gems** : | Premanand Ji Maharaj | Neem Karoli Baba | Acharya Osho | J Krishnamurti | 
+- 🤾‍♂️**Sports** : | Cricket - MSD | Football - Ronaldo |
+- 📃**Wishlist** : | Travelling | Bikes/Cars | Mac-Prods | e-Gadgets| 
 
 --- 
 
